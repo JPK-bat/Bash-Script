@@ -1,2 +1,2 @@
 # Bash-Script
-contains Bash scripts
+collection of simple bash scripts
