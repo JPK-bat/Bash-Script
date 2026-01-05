@@ -1,0 +1,11 @@
+#Make sure the script is exceutable
+chmod +x /path_name/script_name.sh
+
+# To enter and edit crontab
+crontab -e
+
+# To schedule the script
+* * * * * /path_name/script_name.sh
+
+#Above Asteriks respresents 
+Minutes Hours Date Month Day 
